@@ -131,11 +131,8 @@ plus.addEventListener('click', function () {
     calculator()
 });
 minus.addEventListener('click', function () {
-
-    if (p === 0) {
-        count = 0
-    } else {
-       count--
+    if (count >= 2) {
+        count--
     }
     calculator()
 });

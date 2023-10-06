@@ -210,7 +210,7 @@ aside {
     width: 28px;
     position: relative;
     left: 650px;
-    top: -40px;
+    top: -1px;
 }
 
 .article_grid {
@@ -394,7 +394,7 @@ a {
     height: 50px;
     border: none;
     outline: none;
-    background: #ccc;
+    background: blue;
     color: #000;
     font-size: 22px;
     border-radius: 40px;
