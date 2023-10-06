@@ -405,3 +405,14 @@ a {
     overflow: hidden;
     cursor: pointer;
 }
+.shop_sale{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    padding: 28px;
+    margin-left: 74px;
+}
+.sale{
+    text-decoration: line-through;
+    color: grey;
+}
